@@ -6,6 +6,7 @@ const orders = [
   { id: 1, title: "Orange", quantity: 2, price: 5.50 },
   { id: 2, title: "Tangerine", quantity: 1, price: 3.00 },
   { id: 3, title: "Raspberry", quantity: 3, price: 10.00 },
+  { id: 4, title: "Raspberry", quantity: 3, price: 10.00 },
 ];
 
 const Page = () => {
