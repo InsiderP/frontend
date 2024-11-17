@@ -62,7 +62,7 @@ export default function Review (){
               showAnchorIcon
               href={card.link}
             >
-              Order Foodsss
+              Order Food
             </Link>
           </CardFooter>
         </Card>
