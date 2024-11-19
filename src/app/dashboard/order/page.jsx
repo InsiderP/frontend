@@ -32,7 +32,7 @@ const Page = () => {
             onClick={handleProceed}
             className="bg-blue-500 text-white px-4 py-2 rounded"
           >
-            Proceed
+            Proceeds
           </button>
         </div>
       </div>
