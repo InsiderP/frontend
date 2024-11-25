@@ -63,6 +63,11 @@ export default function Review (){
               href={card.link}
             >
               Order Food
+              {/* db.user.find({
+                $expr:{
+                  $gt:["$price",{$avg:"$price"}]
+                }
+              }) */}
             </Link>
           </CardFooter>
         </Card>
