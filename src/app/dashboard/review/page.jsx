@@ -62,7 +62,7 @@ export default function Review (){
               showAnchorIcon
               href={card.link}
             >
-              Order Foodsssshhhh
+              Order Food
               {/* db.user.find({
                 $expr:{
                   $gt:["$price",{$avg:"$price"}]
