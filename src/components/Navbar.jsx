@@ -15,7 +15,7 @@ export default function Navbars() {
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
         <NavbarItem>
           <Link color="foreground" href="/dashboard/food">
-            Menu
+            Menuss
           </Link>
         </NavbarItem>
         <NavbarItem isActive>
