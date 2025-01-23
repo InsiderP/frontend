@@ -12,7 +12,7 @@ const orders = [
 const Page = () => {
   const handleProceed = () => {
     // Add functionality to handle proceeding (e.g., navigate to payment)
-    console.log("Proceed to next step");
+    console.log("Proceed to next stepPP");
   };
 
   return (
