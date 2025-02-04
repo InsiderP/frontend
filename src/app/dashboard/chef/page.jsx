@@ -73,6 +73,12 @@ export default function Chef() {
           rating: 3,
           years_of_experience: 5,
         },
+        {
+          title: "ghi",
+          img: "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=800",
+          rating: 3,
+          years_of_experience: 5,
+        },
       ];
       
 
